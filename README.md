@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Parthasaradhi</h1>
 
-<h4>I am a Computer Science Engineering student with expertise in Python programming and building machine learning web applications. With a solid foundation in computer science principles, I constantly strive to expand my knowledge and explore new technologies. I am deeply enthusiastic about leveraging the power of artificial intelligence to develop innovative solutions that solve real-world problems.</h4>
+<h4>I am a Software Engineer with a passion for building innovative software solutions and solving real-world problems. I enjoy designing and building efficient systems, improving existing processes, and transforming complex challenges into simple, scalable solutions.
+ 
+Currently, I contribute to the development of an AI-powered SDLC platform that streamlines the software development lifecycle, transforming requirements into production-ready applications through intelligent automation. This experience has strengthened my skills in software development, feature implementation, testing, problem-solving, and system optimization.</h4>
 
 
 
